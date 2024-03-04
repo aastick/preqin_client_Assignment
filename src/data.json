@@ -1,0 +1,70 @@
+{
+    "investors": [
+      {
+        "firmId": 2670,
+        "firmName": "Firm 1",
+        "type": "Type 1",
+        "dateAdded": "2024-03-01",
+        "address": "London,Oxford Street",
+        "commitments": {
+          "PE": 1000000,
+          "PD": 500000,
+          "RE": 200000,
+          "INF": 300000,
+          "NR": 150000,
+          "HF": 700000
+        }
+      },
+      {
+        "firmId": 2792,
+        "firmName": "Firm 92",
+        "type": "Type 2",
+        "dateAdded": "2024-03-01",
+        "address": "Germany,Stuttgart",
+        "commitments": {
+          "PE": 1802300,
+          "PD": 567788,
+          "RE": 467788,
+          "INF": 1964523,
+          "NR": 912345,
+          "HF": 651890
+        }
+      },
+      
+      {
+        "firmId": 332,
+        "firmName": "Firm 32",
+        "type": "Type 3",
+        "dateAdded": "2024-03-01",
+        "address": "Italy,Rome",
+        "commitments": {
+          "PE": 557121,
+          "PD": 87390,
+          "RE": 115290,
+          "INF": 374931,
+          "NR": 149021,
+          "HF": 4487106
+        }
+      },
+      
+      {
+        "firmId": 3611,
+        "firmName": "Firm 11",
+        "type": "Type 4",
+        "dateAdded": "2024-03-01",
+        "address": "Spain,Bercolona",
+        "commitments": {
+          "PE": 1890065,
+          "PD": 3090712,
+          "RE": 279316,
+          "INF": 19852,
+          "NR": 797334,
+          "HF": 1635098
+        }
+      }
+      
+      
+    ]
+  }
+  
+  
